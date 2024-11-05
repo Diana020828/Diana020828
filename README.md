@@ -2,7 +2,7 @@
 # Hi, I'm Diana! 👋
 
 
-# Developer Web | Data Analytics 
+# Data Analytics 
 
 ## 🚀 About Me
 I'm a passionate web developer with a versatile command of the most powerful languages and technologies! My experience ranges from creating stunning interfaces with HTML, CSS and JavaScript, to building dynamic and responsive applications with React. Additionally, my ability to take your ideas to the next level extends across Java, Python and Spring Boot, allowing me to create robust and efficient solutions. If you're looking for someone who combines the creativity of web design with the robustness of programming, I'm the developer you need to turn your concepts into amazing digital realities!
