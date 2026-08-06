@@ -10,7 +10,7 @@
 <div align="center">
 
 <a href="https://portfoliodiana.netlify.app">
-  <img src="https://portfoliodiana.netlify.app/og-image.png" width="100%" alt="Diana Pinzón — Marketing Automation Specialist · n8n, Zapier, GoHighLevel, Webflow, React, Astro" />
+  <img src="assets/banner.svg" width="100%" alt="Diana Pinzón — Marketing Automation Specialist · n8n, Zapier, GoHighLevel, HubSpot, React, Astro" />
 </a>
 
 <br/><br/>
@@ -248,65 +248,10 @@ moved a metric that matters. **Adoption is a design problem, not a training prob
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Diana020828&show_icons=true&hide_border=true&hide_title=true&card_width=450&title_color=C1663A&icon_color=7FA07F&text_color=8B7355&bg_color=00000000" alt="Diana Pinzón's GitHub activity stats" />
+<samp>Open to automation, RevOps and growth-operations work — freelance or in-house.</samp>
 
-![Profile views](https://komarev.com/ghpvc/?username=Diana020828&label=profile%20views&color=C1663A&style=flat-square)
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Diana020828&label=profile%20views&color=C1663A&style=flat-square&labelColor=3B2F2A)
 
 </div>
-
-<details>
-<summary><sub>Machine-readable profile summary (schema.org/Person)</sub></summary>
-
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Diana Pinzón",
-  "alternateName": "Diana Pinzón Reyes",
-  "jobTitle": ["Marketing Automation Specialist", "Co-founder at Vulcano"],
-  "description": "Marketing automation specialist and co-founder of Vulcano. Builds automations with n8n, Zapier, GoHighLevel and HubSpot that connect CRM, prospecting and email, plus web development, automated campaigns and conversion-focused copywriting.",
-  "url": "https://portfoliodiana.netlify.app",
-  "email": "dianapinzon577@gmail.com",
-  "knowsLanguage": ["es", "en"],
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Tunja",
-    "addressRegion": "Boyacá",
-    "addressCountry": "Colombia"
-  },
-  "sameAs": [
-    "https://linkedin.com/in/dianapinzonreyes",
-    "https://github.com/Diana020828",
-    "https://portfoliodiana.netlify.app",
-    "https://vulcanoservices.dev"
-  ],
-  "knowsAbout": [
-    "Marketing Automation",
-    "Workflow Automation",
-    "n8n",
-    "Zapier",
-    "GoHighLevel",
-    "HubSpot",
-    "Lead Generation",
-    "Cold Email Outreach",
-    "CRM Operations",
-    "Webflow",
-    "React",
-    "Astro",
-    "Copywriting",
-    "Data Analysis"
-  ],
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Vulcano",
-    "url": "https://vulcanoservices.dev",
-    "description": "Software, data and process-automation engineering studio."
-  },
-  "alumniOf": {
-    "@type": "EducationalOrganization",
-    "name": "Universidad Pedagógica y Tecnológica de Colombia (UPTC)"
-  }
-}
-```
-
-</details>
