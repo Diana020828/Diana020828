@@ -95,7 +95,8 @@ class Face:
         subsetter.populate(text="".join(sorted(self.used)))
         buffer = io.BytesIO()
         self.font.save(buffer)
-        font = TTFont(io.BytesIO(buffer.getvalue()))
+        # Keep the head timestamp: identical input must produce identical SVGs
+        font = TTFont(io.BytesIO(buffer.getvalue()), recalcTimestamp=False)
         subsetter.subset(font)
         out = io.BytesIO()
         font.save(out)
