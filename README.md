@@ -62,10 +62,10 @@ Lists with Apollo and LinkedIn Sales Navigator, personalized sequences with Sale
 <tr>
 <td width="50%" valign="top">
 
-**Websites & landing pages that capture**<br/>
-<i>Every interested visitor reaches the CRM with their source.</i>
+**Custom software: dashboards & internal tools**<br/>
+<i>When the tool you need doesn't exist, I code it.</i>
 
-Landing pages and funnels in Webflow; internal apps and dashboards with React, Astro and Vite; forms and event tracking.
+Dashboards in Next.js, React and TypeScript; internal tools in Python and Django with scheduled Celery tasks; API integrations (Zoom, GoHighLevel, Rosetta Stone); Webflow and Astro landing pages.
 
 </td>
 <td width="50%" valign="top">
@@ -87,11 +87,22 @@ Positioning on LinkedIn, automated newsletters and consumer-psychology-driven me
 
 #### OMW operations dashboard
 
-Costs, clients, appointments and the sales pipeline in one place for On My Way. n8n pulls and consolidates the GoHighLevel CRM data, so nobody rebuilds a report by hand.
+Costs, clients, appointments and the sales pipeline in one place for On My Way. n8n pulls the GoHighLevel CRM data and a Next.js app, built with [Gabriel Castillo](https://github.com/gabo8191), shows it with filters and charts.
 
-`n8n` `GoHighLevel` `React` `REST APIs`
+`Next.js` `TypeScript` `Recharts` `TanStack Query` `n8n`
 
 </td>
+<td width="50%" valign="top">
+
+#### English-program student tracker
+
+A Django module I coded for On My Way: Rosetta Stone API client, program rules engine, daily Celery sync, tutor and student progress panels, Zoom coaching sessions and emails when someone stops studying.
+
+`Python` `Django` `Celery` `Zoom API`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### WhatsApp customer-service bot
@@ -101,8 +112,6 @@ Answers at any hour, transcribes voice notes and hands the conversation to a per
 `n8n` `EvolutionAPI` `Redis` `OpenAI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### Prospecting pipeline for CFOPro
@@ -112,7 +121,9 @@ n8n workflows connecting the CRM (ClickUp), Apollo, LinkedIn Sales Navigator and
 `n8n` `ClickUp` `Apollo` `SalesHandy`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 #### [Portfolio site](https://portfoliodiana.netlify.app)
 
@@ -136,7 +147,11 @@ Bilingual ES/EN, one page that tells the client story with a live funnel hero, c
 ![HubSpot](https://img.shields.io/badge/HubSpot-2A1B2E?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
 ![Apollo](https://img.shields.io/badge/Apollo-2A1B2E?style=for-the-badge)
 ![Webflow](https://img.shields.io/badge/Webflow-2A1B2E?style=for-the-badge&logo=webflow&logoColor=4353FF)
+![Next.js](https://img.shields.io/badge/Next.js-2A1B2E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2A1B2E?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-2A1B2E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-2A1B2E?style=for-the-badge&logo=django&logoColor=8DB39B)
+![Celery](https://img.shields.io/badge/Celery-2A1B2E?style=for-the-badge&logo=celery&logoColor=B7A6E3)
 ![Astro](https://img.shields.io/badge/Astro-2A1B2E?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![Python](https://img.shields.io/badge/Python-2A1B2E?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-2A1B2E?style=for-the-badge&logo=postgresql&logoColor=B7A6E3)
@@ -162,7 +177,7 @@ A software, data and process-automation engineering studio I co-founded with [Ga
 </table>
 
 - **On My Way · Marketing Automation Specialist** <sup>Apr. 2026 – present</sup><br/>
-  WhatsApp conversation flows that qualify, route and follow up on enquiries; documented GoHighLevel automations; Webflow campaign pages; webinars and lead capture with Jotform and Wistia.
+  WhatsApp conversation flows that qualify, route and follow up on enquiries; documented GoHighLevel automations; Webflow campaign pages; webinars and lead capture with Jotform and Wistia. Coded the Django module that tracks the English-program students and contributed to the Next.js operations dashboard.
 - **CFOPro LLC · Virtual Assistant & Automation Support** <sup>May 2025 – Mar. 2026</sup><br/>
   n8n workflows across ClickUp, Apollo, LinkedIn Sales Navigator and SalesHandy; internal apps with React, Astro and Vite; automated LinkedIn outreach, cold email and newsletters.
 - **Independent · Copywriting & personal branding** <sup>2024 – 2025</sup><br/>

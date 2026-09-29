@@ -252,7 +252,7 @@ def build_header(fonts: dict[str, TTFont]) -> str:
   <text class="fade" x="80" y="98" font-family="{body.family}" font-size="18" fill="{PLUM_SOFT}">{esc(body.use("Diana Pinzon · Marketing automation & growth"))}</text>
   <rect class="fade" style="animation-delay:.5s" x="54" y="{lines[2][3] - 30}" width="{italic_width + 8:.1f}" height="26" fill="{LAVENDER_SOFT}"/>
   {headline}
-  <text class="fade" style="animation-delay:.6s" x="58" y="{lines[2][3] + 62}" font-family="{body.family}" font-size="19" fill="{PLUM}">{esc(body.use("n8n · GoHighLevel · Zapier · HubSpot · Webflow — Colombia, remote"))}</text>
+  <text class="fade" style="animation-delay:.6s" x="58" y="{lines[2][3] + 62}" font-family="{body.family}" font-size="19" fill="{PLUM}">{esc(body.use("n8n · GoHighLevel · HubSpot · Django · Next.js — Colombia, remote"))}</text>
   {card}"""
     return document(
         width,
