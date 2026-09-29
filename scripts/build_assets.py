@@ -71,6 +71,8 @@ class Face:
 
     def __init__(self, family: str, font: TTFont):
         self.family = family
+        # Never rewrite the head timestamp, so reruns produce identical SVGs
+        font.recalcTimestamp = False
         self.font = font
         self.cmap = font.getBestCmap()
         self.upem = font["head"].unitsPerEm
